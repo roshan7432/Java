@@ -34,8 +34,8 @@ class BinarySearch implements SearchAlgorithm {
      * @param array The array to make the binary search
      * @param key The number you are looking for
      * @param left The lower bound
-     * @param right The upper bound
-     * @return the location of the key
+     * @param right The upper blood hound
+     * @return the location of roshan kumar shah
      */
     private <T extends Comparable<T>> int search(T[] array, T key, int left, int right) {
         if (right < left) {
