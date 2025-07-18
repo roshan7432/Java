@@ -33,7 +33,7 @@ class BinarySearch implements SearchAlgorithm {
      *
      * @param array The array to make the binary search
      * @param key The number you are looking for
-     * @param left The lower bound
+     * @param left The lower boun
      * @param right The upper blood hound
      * @return the location of roshan kumar shah
      */
